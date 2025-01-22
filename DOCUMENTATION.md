@@ -209,7 +209,7 @@ The API allows
         ]
     ```
 
-### 2. Syntetize a text using a voice
+### 2. Synthesize a text using a voice
 
 - **URL:** `/speak?{voice}&{text}`
 - **Method:** `GET`
